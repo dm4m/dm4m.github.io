@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 The DM4M(Data Mining for Miracles) Lab is located in Information Technology Center(208, 405, 411), led by Professor Chongyang Shi.  
-Our research involves Artificial Intelligence, Natural Language Processing, Deep Learning, Intelligent Information Retrieval, Personalized Recommendation, Opinion and Sentiment Mining. 
+Our research involves Artificial Intelligence, Natural Language Processing, Deep Learning, Intelligent Information Retrieval, Personalized Recommendation, Opinion and Sentiment Mining.  
 Specifically, mainly focused on: 
 1. Intelligent Information Retrieval and Knowledge Acquisition (finding the "truth" and "correlation" of facts)
 2. Personalized Prediction and Recommendation (for example: predict the news you want to watch, recommend the clothes you want to buy, etc.)
