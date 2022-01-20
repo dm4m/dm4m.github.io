@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 #subtitle: <a href='https://cs.bit.edu.cn/'>Affiliations</a>. 
 subtitle: School of Computer Science and Technology, Beijing Institude of Technology.
