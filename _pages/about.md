@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-The DM4M(Data Mining for Miracles) Group is located in Information Technology Center(208, 405, 411), Beijing Insititude of Technology, led by Professor Chongyang Shi.
+The DM4M(Data Mining for Miracles) Lab is located in Information Technology Center(208, 405, 411), led by Professor Chongyang Shi.  
 Our research involves Artificial Intelligence, Natural Language Processing, Deep Learning, Intelligent Information Retrieval, Personalized Recommendation, Opinion and Sentiment Mining. 
 Specifically, mainly focused on: 
 1. Intelligent Information Retrieval and Knowledge Acquisition (finding the "truth" and "correlation" of facts)
