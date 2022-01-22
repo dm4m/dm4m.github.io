@@ -13,9 +13,9 @@ subtitle: School of Computer Science and Technology, Beijing Institude of Techno
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 The DM4M(Data Mining for Miracles) Lab is located in Information Technology Center(208, 405, 411), led by Professor Chongyang Shi.  
 Our research involves Artificial Intelligence, Natural Language Processing, Deep Learning, Intelligent Information Retrieval, Personalized Recommendation, Opinion and Sentiment Mining.  
