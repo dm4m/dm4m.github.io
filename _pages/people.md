@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 nav: true
 ---
-## Principal supervisor
+## Principal Supervisor
 ![prof](/assets/img/shichongyang.jpg){: height= "198px" width="148px"}<br> 
 [Chongyang Shi](https://cs.bit.edu.cn/szdw/jsml/js/scy_65771a7088724eec9239d45995188485/index.htm), born in August 1980, Ph.D., associate professor, visiting scholar at University of Technology Sydney. He received a bachelor's degree in computer science from Northeast Normal University in 2002, a master's degree in  software engineering from Beijing Institute of Technology in 2004, and a doctoral degree in computer science from Beijing Institute of Technology in 2011. He is currently the director of the BIT's Institute of Artificial Intelligence and Software Engineering, in the direction of intelligent information retrieval. 
 He has been engaged in research work in artificial intelligence, natural language processing, deep learning, intelligent information retrieval, personalized recommendation, opinion and emotion mining, etc., and has rich research experience in these directions. 
