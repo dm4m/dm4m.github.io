@@ -24,3 +24,6 @@ Specifically, mainly focused on:
 2. Personalized Prediction and Recommendation (for example: predict the news you want to watch, recommend the clothes you want to buy, etc.)
 3. Social Network Sentiment and Opinion Mining (for example: Douban evaluation, rumor and fake news detection, etc.)
 4. Intelligent Generation (eg: news generation, story ending generation, paper review generation, etc.)
+<hr>
+## Join
+Welcome students who are enthusiastic about research in the fields above to contact [Prof. Shi](https://cs.bit.edu.cn/szdw/jsml/js/scy_65771a7088724eec9239d45995188485/index.htm) via email: cy_shi@bit.edu.cn.
