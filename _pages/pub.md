@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 nav: true
 ---
 [1]Q. Zhang, L. Cao, C. Shi* and Z. Niu, "Neural Time-Aware Sequential Recommendation by Jointly Modeling Preference Dynamics and Explicit Feature Couplings," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/**TNNLS**.2021. 3069058.中科院SCI 大类1区期刊

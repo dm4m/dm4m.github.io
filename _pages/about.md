@@ -5,9 +5,9 @@ permalink: /
 #subtitle: <a href='https://cs.bit.edu.cn/'>Affiliations</a>. 
 subtitle: School of Computer Science and Technology, Beijing Institude of Technology.
 #subtitle: 405. Information Technology Center. Beijing Institude of Technology. 
-#profile:
-#  align: right
-#  image: prof_pic.jpg
+profile:
+  align: right
+  image: home.jpg
 #  address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>

@@ -38,9 +38,16 @@ blockquote {
   padding: 0.5em 10px;
   font-size: 1.2rem;
 }
+// about
+.post-header .post-title{
+  font-size: 60px;
+  font-family: 'Cabin', sans-serif;
+}
 
+.post-header .desc{
+  font-size: 25px;
+}
 // Math
-
 .equation {
   margin-bottom: 1rem;
   text-align: center;
@@ -79,7 +86,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 32%;
     .address {
       p { display: block; }
     }
@@ -100,7 +107,6 @@ blockquote {
 
 
 // Navbar customization
-
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
@@ -135,12 +141,14 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    font-size: 25px;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
     }
+    font-size: 25px;
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
